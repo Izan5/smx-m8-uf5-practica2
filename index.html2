@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>smx-m8-uf5-practica2</title>
+    <meta name="author" content="Izan Hernández">
+    <meta name="description" content="Criado para cazar y hacer salir a la caza menor en las montañas de Japón, el shiba inu es una versión pequeña del akita (de hecho, este nombre significa «perro pequeño»). Se sabe que es una de las razas más antiguas de Japón, que se remonta al siglo III a. C. El shiba inu estuvo a punto de desaparecer por completo en la Segunda Guerra Mundial, pero para recuperar la raza se utilizaron los pocos perros que sobrevivieron a los ataques aéreos y a una epidemia de moquillo.">
+    <link rel="shortcut icon" href="favicon-32x32.png" type="image/x-icon">
+    <html lang="es-ES">
+  <head>
+  <body>
+<h1>hola</h1>
+<h2>como estas</h2>
+<i>El <strong>Shiba Inu</strong> es un perro robusto de tamaño mediano, tipo Spitz (orejas erguidas, pelaje grueso y cola enroscada) y es una versión reducida del Akita. Los machos adultos miden alrededor de 39,5 cm y las hembras, 36,5 cm. El manto inferior grueso y suave está cubierto por una capa superior dura y lisa que puede ser de color rojo, rojo sésamo (rojo con pelo protector negro), negro y fuego o blanco.</i>
+<div id="content" class="row">
+<p>2 &lt; 3</p>
+<a href="https://www.purina.es/encuentra-mascota/razas-de-perro/shiba-inu-japones">Información sobre la raza Shiba Inu</a>
+<div id="content" class="row">
+<p>No soy un comentario</p>
+<!-- <p>¡Yo sí!</p> -->
+<img src="https://www.purina.es/sites/default/files/2021-02/BREED%20Hero_0075_japanese_shiba_inu.jpg"">
+<p>Ejemplo en japonés: 柴犬 </p>
+  </body>
+</html>
